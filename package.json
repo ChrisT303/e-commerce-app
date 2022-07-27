@@ -19,10 +19,10 @@
     "nodemon": "^2.0.3"
   },
   "dependencies": {
-    "dotenv": "^8.2.0",
+    "dotenv": "^8.6.0",
     "express": "^4.18.1",
     "mysql2": "^2.3.3",
-    "sequelize": "^5.22.5",
+    "sequelize": "^4.44.4",
     "uuid": "^8.3.2",
     "uuidv4": "^6.2.13"
   },
