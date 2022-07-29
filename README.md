@@ -30,6 +30,12 @@ Contact me by clicking the below links:
 * [Github Link](https://github.com/deftonechris)
 * [Email Link](mailto:deftonechris@msn.com)
 
+### MySql Shell and Seed
+
+
+https://user-images.githubusercontent.com/103149149/181843772-b28c9418-0150-4859-b28e-c007453bfacf.mp4
+
+
 ### Get All Routes
 
 
@@ -41,7 +47,7 @@ https://user-images.githubusercontent.com/103149149/181842564-9d856158-f3f8-4786
 
 https://user-images.githubusercontent.com/103149149/181842714-785cd7ca-a1db-44d8-a237-63d7e3652817.mp4
 
-## Post, Put, Delete Category
+### Post, Put, Delete Category
 
 
 https://user-images.githubusercontent.com/103149149/181842788-0b74b330-a874-495b-94c9-387ef3057868.mp4
