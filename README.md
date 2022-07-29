@@ -29,3 +29,22 @@ The GPL License
 Contact me by clicking the below links:
 * [Github Link](https://github.com/deftonechris)
 * [Email Link](mailto:deftonechris@msn.com)
+
+### Get All Routes
+
+
+https://user-images.githubusercontent.com/103149149/181842564-9d856158-f3f8-4786-b5d4-778e32a7e2b4.mp4
+
+
+### Get Single Routes
+
+
+https://user-images.githubusercontent.com/103149149/181842714-785cd7ca-a1db-44d8-a237-63d7e3652817.mp4
+
+## Post, Put, Delete Category
+
+
+https://user-images.githubusercontent.com/103149149/181842788-0b74b330-a874-495b-94c9-387ef3057868.mp4
+
+
+
